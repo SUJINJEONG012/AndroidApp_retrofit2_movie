@@ -27,7 +27,7 @@ interface Api{
 ```
 
 
-# 수평선
+
 
 
 <img width="386" alt="1" src="https://user-images.githubusercontent.com/56811978/194195235-7ff5b1dc-22a9-423e-8c3a-85c2c4b1d8a5.png">
