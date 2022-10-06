@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">movie_app</string>
+        <string name="popular">인기영화</string>
+        <string name="most_popular_movies">가장 인기 있는 영화</string>
+        <string name="error_fetch_movies">인터넷 연결을 확인하십시오.</string>
+        <string name="top_rated">고평점 영화</string>
+        <string name="highest_rated_movies">최고평점 영화</string>
+        <string name="upcoming">개봉 예정작</string>
+        <string name="stay_updated">최신 영화 업데이트</string>
+
+</resources>
